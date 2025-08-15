@@ -13311,6 +13311,7 @@ entities:
     - type: Transform
       pos: 23.5,75.5
       parent: 1
+<<<<<<< HEAD
 - proto: BlastDoor
   entities:
   - uid: 402
@@ -13469,6 +13470,8 @@ entities:
       invokeCounter: 2
     missingComponents:
     - Occluder
+=======
+>>>>>>> f177e16cef (Глобальный перенос контента с старого форка.)
 - proto: BlastDoorOpen
   entities:
   - uid: 417
@@ -30634,6 +30637,7 @@ entities:
       rot: 1.5707963267948966 rad
       pos: 70.5,49.5
       parent: 1
+<<<<<<< HEAD
 - proto: ComputerCloningConsole
   entities:
   - uid: 3636
@@ -30649,6 +30653,8 @@ entities:
         7209:
         - - MedicalScannerSender
           - MedicalScannerReceiver
+=======
+>>>>>>> f177e16cef (Глобальный перенос контента с старого форка.)
 - proto: ComputerCrewMonitoring
   entities:
   - uid: 3637
@@ -58105,6 +58111,7 @@ entities:
     - type: Transform
       pos: 14.5,63.5
       parent: 1
+<<<<<<< HEAD
 - proto: LockableButtonBrig
   entities:
   - uid: 7137
@@ -58436,6 +58443,8 @@ entities:
           - Toggle
     - type: Fixtures
       fixtures: {}
+=======
+>>>>>>> f177e16cef (Глобальный перенос контента с старого форка.)
 - proto: LockerAtmosphericsFilled
   entities:
   - uid: 7148
@@ -58869,6 +58878,7 @@ entities:
           showEnts: False
           occludes: True
           ents:
+<<<<<<< HEAD
           - 3531
           - 3532
           - 3533
@@ -58959,6 +58969,16 @@ entities:
         - - Output
           - Toggle
     - type: Visibility
+=======
+          - 3406
+          - 3407
+          - 3408
+          - 3411
+          - 3412
+          - 3413
+          - 3409
+          - 3410
+>>>>>>> f177e16cef (Глобальный перенос контента с старого форка.)
 - proto: LootSpawnerMedicalMinor
   entities:
   - uid: 7177
@@ -68444,6 +68464,7 @@ entities:
       rot: 1.5707963267948966 rad
       pos: 84.5,82.5
       parent: 1
+<<<<<<< HEAD
 - proto: SignalButton
   entities:
   - uid: 8547
@@ -69280,6 +69301,8 @@ entities:
           - Close
     - type: Fixtures
       fixtures: {}
+=======
+>>>>>>> f177e16cef (Глобальный перенос контента с старого форка.)
 - proto: SignArcade
   entities:
   - uid: 8576
@@ -74098,6 +74121,7 @@ entities:
     - type: Transform
       pos: 21.5,93.5
       parent: 1
+<<<<<<< HEAD
 - proto: TwoWayLever
   entities:
   - uid: 9215
@@ -74254,6 +74278,8 @@ entities:
           - Reverse
         - - Middle
           - Off
+=======
+>>>>>>> f177e16cef (Глобальный перенос контента с старого форка.)
 - proto: UniformPrinter
   entities:
   - uid: 9218
@@ -82085,6 +82111,7 @@ entities:
     - type: Transform
       pos: 63.5,72.5
       parent: 1
+<<<<<<< HEAD
 - proto: WindoorSecure
   entities:
   - uid: 10555
@@ -82121,6 +82148,8 @@ entities:
         10555:
         - - DoorStatus
           - Close
+=======
+>>>>>>> f177e16cef (Глобальный перенос контента с старого форка.)
 - proto: WindoorSecureCentralCommandLocked
   entities:
   - uid: 10558

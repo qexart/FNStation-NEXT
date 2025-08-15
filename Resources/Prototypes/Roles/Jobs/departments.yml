@@ -23,7 +23,6 @@
   - Clown
   - HeadOfPersonnel
   - Janitor
-  - Lawyer
   - Librarian
   - Mime
   - Musician
@@ -74,6 +73,8 @@
   - ERTSecurity
   - ERTEngineer
   - DeathSquad
+  - Blueshield
+  - NanotrasenRepresentive
   primary: false
   weight: 100
 
@@ -100,6 +101,7 @@
   - MedicalDoctor
   - MedicalIntern
   - Psychologist
+  - Patologoanatom
   - Paramedic
   - Surgeon # Corvax-Next-Surgeon
   - SeniorPhysician # Corvax-MentorRoles
